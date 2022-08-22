@@ -1,4 +1,4 @@
 server:
   servlet:
-    context-path: /demo-app-1
+    context-path: /demo-app1
   port: 8081
