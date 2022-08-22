@@ -1,4 +1,6 @@
+server:
+  port: 8081
+
 app:
   name: Demo Application 1
   debug: true
-  
