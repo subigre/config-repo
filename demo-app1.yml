@@ -1,0 +1,4 @@
+app:
+  name: Demo Application 1
+  debug: true
+  
